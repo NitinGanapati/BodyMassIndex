@@ -49,8 +49,6 @@ This project is a starting point for a Flutter application.
 
 ## Screenshots
 
-*(Add screenshots of your app here to make the README more appealing)*
-
 ## Resources
 
 - [Flutter Documentation](https://docs.flutter.dev/)
